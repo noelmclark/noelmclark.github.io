@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Kanno Fish Lab, University of Montana</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.umt.edu/kanno-fish-lab/default.php">Kanno Fish Lab, University of Montana</a>.
 
 profile:
   align: right
