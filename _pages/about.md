@@ -31,4 +31,4 @@ In 2025, I finished my M.S. at Colorado State University in Fort Collins where I
 
 Besides wrangling fish and conducting research, you can find me exploring local trails on feet and wheels, snorkeling and paddling, writing, reading, and drinking coffee. I have published peer reviewed papers, informal articles, and even poetry! I am also involved in science communication and community outreach, and love getting involved in local projects.
 
-The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
